@@ -5,7 +5,7 @@ const Error = () => {
     return (
         <div className='flex flex-col justify-center items-center gap-y-4'>
            <p className=' text-4xl'>  404 page</p>
-            <Link to="/" className='bg-yellow-500 w-[250px]  rounded-lg text-center py-2'>Go back home</Link>
+            <Link to="/" className='bg-green-600 w-[250px]  rounded-lg text-center py-2'>Go back home</Link>
         </div>
     );
 }

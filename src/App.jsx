@@ -1,7 +1,15 @@
+import HeroSection from "./components/HeroSection";
+import TokenList from "./components/TokenList";
+import NavBar from "./components/navBar";
+
 function App() {
-  return <>
-  <p>hello world</p>
-  </>;
+  return (
+    <main>
+      <NavBar />
+      <HeroSection/>
+      <TokenList />
+    </main>
+  );
 }
 
 export default App;

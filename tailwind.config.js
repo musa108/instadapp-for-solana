@@ -5,8 +5,16 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        kaushan:[ 'Kaushan Script', 'cursive'],
+        nunito: ['Nunito', "sans-serif"],
+        oswald: ['Oswald', "sans-serif"],
+        lora:['Lora', 'serif'],
+      },
+    },
   },
   plugins: [],
 }
+
 

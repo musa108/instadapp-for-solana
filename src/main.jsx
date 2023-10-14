@@ -5,6 +5,7 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 
 const App = lazy(() => import("./App"));
 const Error = lazy(() => import("./routes/Error"))
+const SwapTerminal = lazy(() => import("./pages/swapTerminal"))
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,14 @@ const router = createBrowserRouter([
     element:(
       <Suspense>
         <Error/>
+      </Suspense>
+    ),
+  },
+  {
+    path: "/swapTerminal",
+    element:(
+      <Suspense>
+        <SwapTerminal/>
       </Suspense>
     ),
   },
