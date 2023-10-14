@@ -20,7 +20,6 @@ const NavBar = () => {
             <NavLink to="/swapTerminal">Swapping</NavLink>
           </li>
         </ul>
-        {/* <MobileNav/> */}
       </nav>
     </main>
   );
