@@ -21,7 +21,7 @@ SolFinance is a decentralized finance (DeFi) explorer that consolidates data fro
 SolFinance provides access to a wide range of DeFi protocols on the Solana blockchain. Explore and interact with DeFi platforms.
 
 #### Swapping Functionality
-Easily swap assets between different DeFi platforms and tokens directly within SolFinance. Take advantage of the swapping feature for seamless asset management.
+Easily swap assets between different DeFi platforms and tokens directly within SolFinance.Jupiter station is integrated in the application so that you can take advantage of the swapping feature for seamless asset management.
 
 ### Contributing
 We welcome contributions from the community. Learn how you can contribute to the development of SolFinance and make it even better.
