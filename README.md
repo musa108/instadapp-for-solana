@@ -8,6 +8,7 @@ Welcome to the official documentation for SolFinance, your gateway to the world 
 3. [Features](#features)
     - [DeFi Aggregator](#defi-aggregator)
     - [Swapping Functionality](#swapping-functionality)
+4.[Contributing](#Contributing)
 
 
 ### Introduction
