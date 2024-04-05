@@ -16,6 +16,7 @@ Welcome to the official documentation for SolFinance, your gateway to the world 
 SolFinance is a decentralized finance (DeFi) explorer that consolidates data from various DeFi platforms on the Solana blockchain. It offers a user-friendly interface for exploring and utilizing DeFi protocols, along with a built-in swapping feature for easy asset exchange.
 
 ### Getting Started
+check the live url to see the web application
 - LIVE URL:https://solfinance.netlify.app
 
 ### Features
